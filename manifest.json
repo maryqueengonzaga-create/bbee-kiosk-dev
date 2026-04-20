@@ -1,0 +1,10 @@
+{
+  "name": "Bbee.Co Time Kiosk",
+  "short_name": "Bbee Kiosk",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#F5F5F5",
+  "theme_color": "#0D0D0D",
+  "orientation": "portrait",
+  "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}]
+}
